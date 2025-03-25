@@ -1,4 +1,4 @@
-// 🚀 Day 9: JavaScript Revision - What We've Learned So Far!
+// 🚀 Day 10: JavaScript Revision - What We've Learned So Far!
 
 // 1️⃣ Variables
 var a = 10;
