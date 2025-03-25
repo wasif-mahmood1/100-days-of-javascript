@@ -45,5 +45,5 @@ This revision session is a great opportunity to review key concepts before movin
 
 ---
 
-Stay tuned for **Day 10**! 🎯
+Stay tuned for **Day 11**! 🎯
 
