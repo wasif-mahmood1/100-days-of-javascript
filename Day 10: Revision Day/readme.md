@@ -1,4 +1,4 @@
-# Day 9: JavaScript Revision Day
+# Day 10: JavaScript Revision Day
 
 Welcome to **Day 9** of the **100 Days of JavaScript** challenge! 🚀 Today is a **Revision Day**, where we will recap and reinforce what we've learned so far.
 
