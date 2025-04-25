@@ -1,7 +1,7 @@
 // Day 40: Revision of Day 31 to Day 39 (With Wasif Mahmood)
 
 // Day 31: JavaScript Break and Continue
-// - 'break' exits a loop early
+// - 'break' exits a loop early.
 // - 'continue' skips the current iteration
 // Example:
 for (let i = 0; i < 5; i++) {
